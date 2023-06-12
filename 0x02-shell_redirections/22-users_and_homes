@@ -1,2 +1,2 @@
 #!/bin/bash 
-cat /etc/passwd | sort -u1 | cut -d: -f1
+echo 'Best School'  >> "\\*\\\\'\"Best School\"\\'\\\\*$\\?\\*\\*\\*\\*\\*:)"
