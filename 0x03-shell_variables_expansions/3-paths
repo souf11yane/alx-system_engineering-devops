@@ -1,2 +1,2 @@
 #!/bin/bash
-echo read -ra $PATH
+echo $PATH | tr ':' '\n' | wc -l
